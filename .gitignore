@@ -30,6 +30,3 @@ coverage.json
 
 # logs
 *.log
-
-# claude local settings
-.claude/
