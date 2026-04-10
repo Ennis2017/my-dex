@@ -1,0 +1,35 @@
+# dependencies
+node_modules
+
+# build output
+dist
+out
+*.tgz
+
+# environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
+
+# Hardhat
+contracts/cache
+contracts/artifacts
+contracts/typechain-types
+
+# coverage
+coverage
+*.lcov
+coverage.json
+
+# logs
+*.log
+
+# claude local settings
+.claude/
